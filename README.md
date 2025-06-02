@@ -1,4 +1,4 @@
-## Hi there I'm 👋
+## Hi there I'm RK896👋
 
 <!--
 **RK896/RK896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/RK896/count.svg?"  />
+  <h3>👀 Profile Views</h3>
+  <img src="https://profile-counter.glitch.me/rk896/count.svg" />
 </div>
