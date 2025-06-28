@@ -1,4 +1,7 @@
-## Hi there I'm RK896👋
+# Hi there I'm RK896👋
+- 👨🏻‍🎓 I'm a student at NJIT studying CS and Applied Math
+- 📚 I’m currently learning Spring Boot, Open CV, and Tensorflow
+
 
 <!--
 **RK896/RK896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +9,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
