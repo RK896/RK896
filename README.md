@@ -1,5 +1,5 @@
 # Hi there I'm Rohit Karnik (RK896) 👋
-- 👨🏻‍🎓 I'm a student at NJIT studying CS and Applied Math
+- 👨🏻‍🎓 I'm a student at NJIT studying CS
 - 📚 I’m currently learning Spring Boot, Open CV, and Tensorflow
 
 
