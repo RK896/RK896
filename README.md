@@ -1,6 +1,6 @@
 # Hi there I'm Rohit Karnik (RK896) 👋
 - 👨🏻‍🎓 I'm a student at NJIT studying CS
-- 📚 I’m currently learning Spring Boot, Open CV, and Tensorflow
+- 📚 I’m currently learning Spring Boot and AI/ML topics
 
 
 <!--
@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RK896&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
