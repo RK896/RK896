@@ -1,6 +1,6 @@
 # Hi there I'm Rohit Karnik (RK896) 👋
 - 👨🏻‍🎓 I'm a student at NJIT studying CS
-- 📚 I’m currently learning Spring Boot and AI/ML topics
+- 📚 I’m currently learning AI/ML topics and pursuing Deep Reinforcement Learning Research
 
 
 <!--
